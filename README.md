@@ -23,4 +23,4 @@ Check out some example programs in the [examples](examples) directory.
 
 ## License
 
-This project is licensed under the terms of the [main](LICENSE).
+This project is licensed under the terms of the [LICENSE](LICENSE.txt).
