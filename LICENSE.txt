@@ -1,0 +1,32 @@
+Z-Dash License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+1. Derivative Works:
+   a. You may use Z-Dash to develop applications and charge for those applications.
+   b. You may offer programming services using Z-Dash and charge for those services.
+   c. You may create and distribute derivative tools such as libraries or custom IDEs, but they must be distributed for free.
+
+2. Restrictions:
+   a. You may not sell derivative tools such as libraries or custom IDEs based on Z-Dash.
+   b. You may not charge for any modifications or enhancements of Z-Dash itself.
+   c. You may not use Z-Dash to create or distribute inappropriate content.
+   d. You may not circumvent the terms of this license.
+
+3. Attribution:
+   You must provide appropriate credit to the original author, including a link to the original repository, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the author endorses you or your use.
+
+4. Share-Alike:
+   If you modify Z-Dash, you must distribute your modifications under the same license as the original.
+
+5. No Warranty:
+   The software is provided "as-is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+
+6. Termination:
+   This license is effective until terminated. Your rights under this license will terminate automatically if you fail to comply with any of its terms.
+
+For special permissions or commercial licensing of derivative tools, please contact the author at Support@zdash.org.
