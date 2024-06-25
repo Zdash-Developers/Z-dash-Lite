@@ -9,10 +9,10 @@ copies of the Software, subject to the following conditions:
 1. Derivative Works:
    a. You may use Z-Dash to develop applications and charge for those applications.
    b. You may offer programming services using Z-Dash and charge for those services.
-   c. You may create and distribute derivative tools such as libraries or custom IDEs, but they must be distributed for free.
+   c. You may create and distribute derivative tools such as custom IDEs, but they must be distributed for free.
 
 2. Restrictions:
-   a. You may not sell derivative tools such as libraries or custom IDEs based on Z-Dash.
+   a. You may not sell derivative tools such as custom IDEs based on Z-Dash.
    b. You may not charge for any modifications or enhancements of Z-Dash itself.
    c. You may not use Z-Dash to create or distribute inappropriate content.
    d. You may not circumvent the terms of this license.
