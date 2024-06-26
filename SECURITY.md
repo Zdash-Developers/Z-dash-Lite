@@ -1,4 +1,4 @@
-Here’s an updated security policy for Z-Dash with the provided contact information:
+
 
 ### Z-Dash Security Policy
 
