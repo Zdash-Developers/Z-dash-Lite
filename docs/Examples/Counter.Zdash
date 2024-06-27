@@ -1,0 +1,20 @@
+!! A counter that increments or decrements using buttons
+
+NUM counter 0
+
+!! Display the initial counter value
+DISPLAY 0 0 Counter:
+DISPLAY 0 9 counter
+
+!! Button to increment the counter
+BUTTON_UP ADD counter counter 1
+BUTTON_UP CLRDISP
+BUTTON_UP DISPLAY 0 0 Counter:
+BUTTON_UP DISPLAY 0 9 counter
+
+!! Button to decrement the counter
+BUTTON_DOWN SUB counter counter 1
+BUTTON_DOWN CLRDISP
+BUTTON_DOWN DISPLAY 0 0 Counter:
+BUTTON_DOWN DISPLAY 0 9 counter
+
