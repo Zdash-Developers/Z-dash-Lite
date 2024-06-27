@@ -1,0 +1,5 @@
+!! Display a static message on the screen
+
+STRING message Hello, ZDash!
+DISPLAY 0 0 message
+
