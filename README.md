@@ -19,7 +19,7 @@ Comprehensive documentation is available in the [docs](docs) directory.
 
 ## Examples
 
-Check out some example programs in the [examples](examples) directory.
+Check out some example programs in the [docs/Examples](docs/Examples) directory.
 
 ## License
 
