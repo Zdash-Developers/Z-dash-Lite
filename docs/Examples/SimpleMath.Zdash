@@ -1,0 +1,23 @@
+!! Perform basic arithmetic operations and display the results
+
+NUM a 5
+NUM b 5
+NUM sum 0
+NUM diff 0
+NUM prod 0
+NUM quot 0
+
+ADD sum a b
+SUB diff a b
+MULT prod a b
+DIV quot a b
+
+DISPLAY 0 0 Sum:
+DISPLAY 0 5 sum
+DISPLAY 1 0 Diff:
+DISPLAY 1 6 diff
+DISPLAY 2 0 Prod:
+DISPLAY 2 6 prod
+DISPLAY 3 0 Quot:
+DISPLAY 3 6 quot
+
