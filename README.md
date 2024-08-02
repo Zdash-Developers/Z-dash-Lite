@@ -1,7 +1,7 @@
 # Z-Dash Lite
 
-# Z-Dash Lite created by Nooric
-# All rights reserved by Nooric
+## Z-Dash Lite created by Nooric
+## All rights reserved by Nooric
 
 Z-Dash Lite is a simple and easy-to-learn programming language designed to bridge the gap between visual programming languages and more advanced languages. It provides basic programming concepts in an accessible and user-friendly way.
 
