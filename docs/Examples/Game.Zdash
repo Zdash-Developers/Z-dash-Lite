@@ -1,1 +1,40 @@
+!! ZDash Number Guessing Game
 
+!! Variable declarations
+NUM target_num 0
+NUM guess 0
+NUM attempts 0
+BIT correct 0
+
+!! Generate random target number between 1 and 100
+RANDOM target_num 1 100
+
+!! Initial display
+DISPLAY 0 0 Guess a number between 1 and 100
+DISPLAY 1 0 Attempts: 
+DISPLAY 2 0 Your guess: 
+
+!! Button commands to input guesses
+BUTTON_UP ADD guess guess 1
+BUTTON_DOWN SUB guess guess 1
+BUTTON_CENTER SAVE correct 0
+BUTTON_CENTER IF guess == target_num SAVE correct 1
+BUTTON_CENTER IF guess == target_num DISPLAY 0 0 Correct!
+BUTTON_CENTER IF guess == target_num DISPLAY 1 0 You guessed it!
+BUTTON_CENTER IF guess > target_num DISPLAY 0 0 Too high, try again
+BUTTON_CENTER IF guess < target_num DISPLAY 0 0 Too low, try again
+BUTTON_CENTER ADD attempts attempts 1
+BUTTON_CENTER DISPLAY 1 0 Attempts: attempts
+BUTTON_CENTER DISPLAY 2 0 Your guess: guess
+
+!! Restart game on L button press
+BUTTON_L RANDOM target_num 1 100
+BUTTON_L SAVE attempts 0
+BUTTON_L DISPLAY 0 0 Guess a number between 1 and 100
+BUTTON_L DISPLAY 1 0 Attempts: 
+BUTTON_L DISPLAY 2 0 Your guess: 
+BUTTON_L CLRDISP
+
+!! Display guess and attempts
+DISPLAY 2 0 guess
+DISPLAY 1 0 attempts
